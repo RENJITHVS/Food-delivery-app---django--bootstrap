@@ -44,7 +44,7 @@ Now Create a Postgress Db And link with the Django ORM
 
 By default, Django is configured to use SQLite as its backend.
 
-To use Postgres instead, “findfirst/settings.py” needs to be updated:
+To use Postgres instead, “settings.py” needs to be updated:
 
 ---
 
